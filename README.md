@@ -2,7 +2,7 @@
 
 ## Programação
 ### Back-end
-[C# .Net](/Back-end/C%23 DotNet.MD)
+[C# .Net](/Back-end/C%23_DotNet.MD)
 - Configuração do Ambiente de desenvolvimento
 - Lógica de programação
 - Estrutura de dados
@@ -19,3 +19,8 @@
 ### Relacional (Sequel - SQL)
 **SQL Server**
 - Configuração do Ambiente de desenvolvimento
+
+## Extra
+### Inglês
+
+### LinkedIn 
