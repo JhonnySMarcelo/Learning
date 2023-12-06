@@ -30,7 +30,7 @@
 	
 - Pronúncia
   
-	[Aplicativo Elsa Speak](https://elsaspeak.com/pt/) (Bom contúdo na versão gratuita)
+	[Aplicativo Elsa Speak](https://elsaspeak.com/pt/) (Bom conteúdo na versão gratuita)
 	
 - Conversação
 
