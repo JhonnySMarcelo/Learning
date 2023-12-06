@@ -21,6 +21,18 @@
 - Configuração do Ambiente de desenvolvimento
 
 ## Extra
-### Inglês
+**Inglês**
+- Gramática
+
+	[Aplicativo Duolingo](https://pt.duolingo.com/) (Bom contúdo na versão gratuita)
+	[Aplicativo EWA](https://appewa.com/) (Bom contúdo na versão gratuita)
+	
+- Pronúncia
+  
+	[Aplicativo Elsa Speak](https://elsaspeak.com/pt/) (Bom contúdo na versão gratuita)
+	
+- Conversação
+
+	[Cambly](https://www.cambly.com/invite/Y4KYMJXD?st=120623&sc=4) (Pago)
 
 ### LinkedIn 
