@@ -25,6 +25,7 @@
 - Gramática
 
 	[Aplicativo Duolingo](https://pt.duolingo.com/) (Bom contúdo na versão gratuita)
+
 	[Aplicativo EWA](https://appewa.com/) (Bom contúdo na versão gratuita)
 	
 - Pronúncia
