@@ -24,9 +24,9 @@
 **Inglês**
 - Gramática
 
-	[Aplicativo Duolingo](https://pt.duolingo.com/) (Bom contúdo na versão gratuita)
+	[Aplicativo Duolingo](https://pt.duolingo.com/) (Bom conteúdo na versão gratuita)
 
-	[Aplicativo EWA](https://appewa.com/) (Bom contúdo na versão gratuita)
+	[Aplicativo EWA](https://appewa.com/) (Bom conteúdo na versão gratuita)
 	
 - Pronúncia
   
