@@ -6,8 +6,8 @@
 - Configuração do Ambiente de desenvolvimento
 - Lógica de programação
 - Estrutura de dados
-- Programação Orientada a objeto (POO)
-
+- Programação Orientada a Objetos POO (Object Oriented Programming - OOP)
+- Acesso a Dados
 ### Front-end
 **Angular**
 - Configuração do Ambiente de desenvolvimento
