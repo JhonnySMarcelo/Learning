@@ -34,6 +34,14 @@
 - Configuração do Ambiente de desenvolvimento
 
 ## Extra
+**Desafios sobre conhecimentos técnicos**
+
+Este tipo de teste geralmente é aplicado em oportunidades de trabalho em projetos internacionais, entre diversas plataformas que existem, eu atualmente recomendo essas duas para ajudar na preparação e/ou melhorar os conhecimentos técnicos aplicados.
+
+[Hacker Rank](https://www.hackerrank.com/dashboard)
+
+[Coding Game](https://www.codingame.com/ide/puzzle/onboarding)
+
 **Inglês**
 - Gramática
 
