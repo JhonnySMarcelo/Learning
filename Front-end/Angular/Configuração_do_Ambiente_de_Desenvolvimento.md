@@ -1,23 +1,23 @@
-# ConfiguraÁ„o do Ambiente de Desenvolvimento
+# Configura√ß√£o do Ambiente de Desenvolvimento
 
-## InstalaÁ„o do IDE - Integrated Development Environment (Ambiente de Desenvolvimento Integrado)
+## Instala√ß√£o do IDE - Integrated Development Environment (Ambiente de Desenvolvimento Integrado)
 
-O IDE È um software que contÈm ferramentas e recursos comuns para o desenvolvedor, permitindo que os desenvolvedores os acessem por meio de uma ˙nica GUI (Graphical User Interface, interface gr·fica do usu·rio).
+O IDE √© um software que cont√©m ferramentas e recursos comuns para o desenvolvedor, permitindo que os desenvolvedores os acessem por meio de uma √∫nica GUI (Graphical User Interface, interface gr√°fica do usu√°rio).
 
-### InstalaÁ„o do Visual Studio Code
+### Instala√ß√£o do Visual Studio Code
 
 
-## InstalaÁ„o do Node.Js
+## Instala√ß√£o do Node.Js
 
 Angular CLI utiliza o gerenciador de pacotes npm do Node, para instalar e executar ferramentas JavaScript fora do navegador.
 
-Como vamos utilizar o Angular na vers„o 18.1.x, devemos baixar uma das seguintes versıes do Node.js, ^18.19.1 || ^20.11.1 || ^22.0.0 È obrigatÛrio que a vers„o escolhida seja LTS (long-term support - suporte a longo prazo) ou maintenance LTS (manutenÁ„o LTS) . Baixe o Node.js [aqui](https://nodejs.org/en/download/package-manager) pela guia Prebuilt Installer.
+Como vamos utilizar o Angular na vers√£o 18.1.x, devemos baixar uma das seguintes vers√µes do Node.js, ^18.19.1 || ^20.11.1 || ^22.0.0 √© obrigat√≥rio que a vers√£o escolhida seja LTS (long-term support - suporte a longo prazo) ou maintenance LTS (manuten√ß√£o LTS) . Baixe o Node.js [aqui](https://nodejs.org/en/download/package-manager) pela guia Prebuilt Installer.
 
-![Baixando Node](../Assets/Images/Node.jpg)
+![Baixando Node](Assets/Images/Node.jpg)
 
-ApÛs baixar, abra o execut·vel de instalaÁ„o e siga atÈ a finalizaÁ„o da instalaÁ„o, nehuma alteraÁ„o na instalaÁ„o È necess·ria.
+Ap√≥s baixar, abra o execut√°vel de instala√ß√£o e siga at√© a finaliza√ß√£o da instala√ß√£o, nehuma altera√ß√£o na instala√ß√£o √© necess√°ria.
 
-## InstalaÁ„o do Angular CLI (Command-Line Interface, Interface de linha de comando)
+## Instala√ß√£o do Angular CLI (Command-Line Interface, Interface de linha de comando)
 
 Para instalar o Angular CLI, abra o cmd e rode o seguinte comando:
 ~~~ 
