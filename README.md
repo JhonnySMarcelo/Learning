@@ -92,7 +92,7 @@
 
 **Angular** (🚧 **Em Construção** )
 - Introdução (🚧 **Em Construção** )
-- Configuração do Ambiente de Desenvolvimento (🚧 **Em Construção** )
+- [Configuração do Ambiente de Desenvolvimento (🚧 **Em Construção** )](Front-end/Angular/Configuração_do_Ambiente_de_Desenvolvimento.md)
 - Componentes e Templates (🚧 **Em Construção** )
 - Serviço e Injeção de dependência (Dependency injection) (🚧 **Em Construção** )
 - Data Binding (Interpolação, Propriedade, Evento, Two-Away) (🚧 **Em Construção** )
