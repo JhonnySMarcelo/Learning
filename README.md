@@ -24,8 +24,10 @@
 - Configuração do Ambiente de desenvolvimento(🚧)
 - Lógica de programação (🚧)
 	- Algoritmos e sua importância (🚧)
+	- Variáveis e tipos de dados (🚧)
+	- Operadores lógicos e relacionais (🚧)
     - Estruturas condicionais (if, else, switch) (🚧)
-    - Loops (for, while, do-while) (🚧)
+    - Estruturas de repetições Loops (for, while, do-while) (🚧)
     - Controle de fluxo (break, continue) (🚧)
     - Definição e aplicação de funções (🚧)
     - Passagem de parâmetros (por valor, por referência) (🚧)
@@ -90,10 +92,11 @@
     - Princípios fundamentais (Separation of Concerns, Modularity, etc.).
     - Qualidades Arquiteturais (Performance, Scalability, Security, etc.).
     - Estilos Arquiteturais
-		- Monolítico (🚧)
-		- Microservices (🚧)
-		- Event-Driven (🚧)
-		- Serverless (🚧)
+		- Monolithic (Monolítico)
+		- Microservices (Microsserviços)
+		- Event-Driven (Orientado a Eventos) (🚧)
+		- N-tier Architecture (Arquitetura Multicamadas) (🚧)
+		- Serverless (Sem Servidor) (🚧)
 - Padrões Arquiteturais
     - MVC (Model-View-Controller) (🚧)
     - SOA (Service-Oriented Architecture) (🚧)
