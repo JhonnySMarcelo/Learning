@@ -97,6 +97,16 @@
 		- Event-Driven (Orientado a Eventos) (🚧)
 		- N-tier Architecture (Arquitetura Multicamadas) (🚧)
 		- Serverless (Sem Servidor) (🚧)
+- Padrões de Projeto (Design Patterns) (🚧)
+	- Introdução aos Padrões de Projeto (🚧)
+	- Padrões Creational (🚧)
+	- Padrões Structural  (🚧)
+		- Injeção de Dependência (Dependency Injection) (🚧)
+			- Conceito e importância da Injeção de Dependência (🚧)
+			- Tipos de Injeção de Dependência (Construtor, Setter, Interface) (🚧)
+			- Implementação de Injeção de Dependência em C# (🚧)
+			- Frameworks de Injeção de Dependência (Autofac, Microsoft DI, etc.) (🚧)
+	- Padrões Behavioral (🚧)
 - Padrões Arquiteturais
     - MVC (Model-View-Controller) (🚧)
     - SOA (Service-Oriented Architecture) (🚧)
@@ -104,11 +114,6 @@
     - Clean Architecture (🚧)
     - Ports and Adapters (Hexagonal Architecture) (🚧)
     - Documentação (UML, C4, etc.).
-- Padrões de Projeto (Design Patterns) (🚧)
-	- Introdução aos Padrões de Projeto (🚧)
-	- Padrões Creational (🚧)
-	- Padrões Structural  (🚧)
-	- Padrões Behavioral (🚧)
 - Princípios de Design de Software (Software Design Principles) (🚧)
 	- Princípios SOLID (🚧)
 		- S - Single Responsibility Principle (SRP): Uma classe deve ter apenas uma responsabilidade ou motivo para mudar.
@@ -120,23 +125,23 @@
 		- KISS (Keep It Simple, Stupid): Mantenha o design e o código o mais simples possível.
 		- YAGNI (You Aren't Gonna Need It): Não adicione funcionalidades até que realmente precise delas.
     - Princípios de Modularidade e Encapsulamento (🚧)
-        Separation of Concerns (SoC): Divida o sistema em partes distintas que lidam com diferentes aspectos.
-        Encapsulation (Encapsulamento): Proteja os dados e comportamentos internos de um objeto, expondo apenas o necessário.
+        - Separation of Concerns (SoC): Divida o sistema em partes distintas que lidam com diferentes aspectos.
+        - Encapsulation (Encapsulamento): Proteja os dados e comportamentos internos de um objeto, expondo apenas o necessário.
     - Princípios de Acoplamento e Coesão (🚧)
-        Law of Demeter (Lei de Demeter): Um objeto deve interagir apenas com seus amigos diretos e não com os amigos dos amigos.
-        Tell, Don't Ask (Diga, Não Pergunte): Diga ao objeto o que fazer diretamente, sem perguntar sobre seu estado.
+        - Law of Demeter (Lei de Demeter): Um objeto deve interagir apenas com seus amigos diretos e não com os amigos dos amigos.
+        - Tell, Don't Ask (Diga, Não Pergunte): Diga ao objeto o que fazer diretamente, sem perguntar sobre seu estado.
     - Princípios de Flexibilidade e Evolução (🚧)
-        Favor Composition Over Inheritance (Prefira Composição à Herança): Utilize composição em vez de herança para criar sistemas flexíveis.
-        Principle of Flexibility (Princípio da Flexibilidade): O design deve permitir mudanças e extensões futuras com facilidade.
+        - Favor Composition Over Inheritance (Prefira Composição à Herança): Utilize composição em vez de herança para criar sistemas flexíveis.
+        - Principle of Flexibility (Princípio da Flexibilidade): O design deve permitir mudanças e extensões futuras com facilidade.
     - Princípios de Robustez e Manutenção (🚧)
-        DRY (Don't Repeat Yourself): Evite duplicação de código e lógica.
-        Principle of Maintainability (Princípio da Manutenibilidade): O código deve ser fácil de entender, corrigir e atualizar.
-        Principle of Robustness (Princípio da Robustez): O sistema deve lidar com condições inesperadas e erros de forma eficaz.
+        - DRY (Don't Repeat Yourself): Evite duplicação de código e lógica.
+        - Principle of Maintainability (Princípio da Manutenibilidade): O código deve ser fácil de entender, corrigir e atualizar.
+        - Principle of Robustness (Princípio da Robustez): O sistema deve lidar com condições inesperadas e erros de forma eficaz.
     - Princípios de Abstração e Interação (🚧)
-        Principle of Abstraction (Princípio de Abstração): Esconda detalhes complexos e forneça uma interface simplificada.
-        Single Source of Truth (Fonte Única da Verdade): A informação deve ser representada em um único lugar para garantir consistência.
+        - Principle of Abstraction (Princípio de Abstração): Esconda detalhes complexos e forneça uma interface simplificada.
+        - Single Source of Truth (Fonte Única da Verdade): A informação deve ser representada em um único lugar para garantir consistência.
     - Princípios de Design de Interface (🚧)
-        Principle of Least Astonishment (Princípio do Menor Espanto): O design deve ser previsível para minimizar a surpresa e a confusão.
+        - Principle of Least Astonishment (Princípio do Menor Espanto): O design deve ser previsível para minimizar a surpresa e a confusão.
 - Integração com SDLC e DevOps (🚧)
 	- SDLC (Software Development Life Cycle) (🚧)
 		- Modelos de SDLC (Waterfall, Agile, etc.) (🚧)
