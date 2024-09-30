@@ -100,10 +100,17 @@
 - Padrões de Projeto (Design Patterns) (🚧)
 	- Introdução aos Padrões de Projeto (🚧)
 	- Padrões Creational (🚧)
-	- Padrões Structural  (🚧)
-		- Injeção de Dependência (Dependency Injection) (🚧)
-			- Conceito e importância da Injeção de Dependência (🚧)
-			- Tipos de Injeção de Dependência (Construtor, Setter, Interface) (🚧)
+	- Padrões Estruturais (Structural)  (🚧)
+		- [Injeção de Dependência (Dependency Injection)](Back-end/CSharp_DotNet/Padroes_de_Projeto/Padroes_Estruturais/Injecao_de_Dependencia.md)
+			- Conceito e importância da Injeção de Dependência
+			- Tempo de vida (Lifetime)
+				- Transient
+				- Scoped
+				- Singleton
+			- Tipos de Injeção de Dependência
+				- Injeção via interface
+				- Injeção via Construtor (Constructor)
+				- Injeção via Propriedade (Setter)
 			- Implementação de Injeção de Dependência em C# (🚧)
 			- Frameworks de Injeção de Dependência (Autofac, Microsoft DI, etc.) (🚧)
 	- Padrões Behavioral (🚧)
