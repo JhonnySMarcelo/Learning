@@ -149,15 +149,79 @@
         - Single Source of Truth (Fonte Única da Verdade): A informação deve ser representada em um único lugar para garantir consistência.
     - Princípios de Design de Interface (🚧)
         - Principle of Least Astonishment (Princípio do Menor Espanto): O design deve ser previsível para minimizar a surpresa e a confusão.
-- Integração com SDLC e DevOps (🚧)
-	- SDLC (Software Development Life Cycle) (🚧)
-		- Modelos de SDLC (Waterfall, Agile, etc.) (🚧)
-		- Aplicação das fases do SDLC no desenvolvimento .NET (🚧)
-    - DevOps (🚧)
-		- Conceitos Fundamentais de DevOps (🚧)
-		- Automação de Processos de Desenvolvimento e Operações (🚧)
-		- Ferramentas como Docker, Kubernetes (🚧)
-		- CI/CD com .NET (🚧)
+
+## Integração com SDLC e DevOps (🚧)
+- SDLC (Software Development Life Cycle) (🚧)
+	- Modelos de SDLC (🚧)
+		- Waterfall (Cascata) (🚧)
+		- Agile (Scrum, Kanban, XP, etc.) (🚧)
+		- DevSecOps como modelo integrado de segurança no ciclo de vida (🚧)
+	- Fases do SDLC no desenvolvimento .NET (🚧)
+		- Levantamento de Requisitos (🚧)
+        - Análise e Planejamento  (🚧)
+        - Design (Arquitetura em camadas, Clean Architecture, DDD) (🚧)
+        - Implementação (ASP.NET MVC/Core, Entity Framework, C#) (🚧)
+        - Testes (Unitários com xUnit, Integração, Automatizados com Selenium/Playwright) (🚧)
+        - Deploy (Pipelines no Azure DevOps, GitHub Actions, Octopus Deploy) (🚧)
+        - Manutenção e Suporte (Logs, Telemetria com Application Insights) (🚧)
+    - Papéis no SDLC (🚧)
+        - Product Owner, Scrum Master, Devs, QA, DevOps Engineer (🚧)
+    - Documentação no SDLC (🚧)
+        - Requisitos Funcionais e Não Funcionais (🚧)
+        - Documentos Técnicos (ERDs, Diagramas UML, Swagger/OpenAPI para APIs) (🚧)
+        - Versionamento de Documentação (Markdown, DocFX, Docusaurus) (🚧)
+	- Aplicação das fases do SDLC no desenvolvimento .NET (🚧)
+- DevOps (🚧)
+	- Conceitos Fundamentais (🚧)
+        - Cultura DevOps (colaboração entre Dev + Ops) (🚧)
+        - CALMS Framework (Culture, Automation, Lean, Measurement, Sharing) (🚧)
+        - DevOps vs Agile: complementares, não concorrentes (🚧)
+        - Métricas: Lead Time, Deployment Frequency, Mean Time to Recovery (MTTR), Change Failure Rate (🚧)
+    - Automação de Processos (🚧)
+        - Infraestrutura como Código (IaC) com Bicep, Terraform, Pulumi (foco em Azure) (🚧)
+        - Automatização de builds com MSBuild, dotnet CLI (🚧)
+        - Testes Automatizados no pipeline (🚧)
+        - Automatização de Deploys (Blue/Green, Canary, Rolling Updates) (🚧)
+    - CI/CD com .NET
+        - CI (Integração Contínua): build, testes, análise de código (SonarQube) (🚧)
+        - CD (Entrega/Implantação Contínua): artefatos, staging/prod (🚧)
+        - Ferramentas: (🚧)
+            - Azure DevOps (YAML Pipelines) (🚧)
+            - GitHub Actions (com dotnet CLI) (🚧)
+            - GitLab CI/CD (🚧)
+            - Jenkins (menos comum em .NET, mas possível) (🚧)
+            - Octopus Deploy (🚧)
+    - Contêineres e Orquestração (🚧)
+        - Docker: (🚧)
+            - Dockerfile para apps ASP.NET Core (🚧)
+            - Multistage builds (🚧)
+            - Docker Compose para apps multicamadas (.NET + SQL Server) (🚧)
+        - Kubernetes: (🚧)
+            - Helm Charts para apps .NET (🚧)
+            - Azure Kubernetes Service (AKS) (🚧)
+            - Monitoramento com Prometheus + Grafana (🚧)
+            - Kustomize, KEDA para escalonamento (🚧)
+    - Monitoramento e Observabilidade (🚧)
+        - Application Insights (Azure) (🚧)
+        - Serilog + Seq para logs estruturados (🚧)
+        - OpenTelemetry com .NET (🚧)
+        - Health Checks nativos (.NET Core) (🚧)
+    - Segurança Integrada (DevSecOps) (🚧)
+        - Static Code Analysis: SonarQube, Snyk (🚧)
+        - Dependabot (GitHub) (🚧)
+        - Secrets Management (Azure Key Vault, dotenv) (🚧)
+        - Políticas de Branch, PR e Revisão de Código (🚧)
+        - Testes de Segurança Automatizados (🚧)
+    - Release Management (🚧)
+        - Versionamento Semântico (Semantic Versioning) (🚧)
+        - Tagging automático no Git (🚧)
+        - GitFlow / trunk-based development (🚧)
+        - Gerenciamento de Releases com Azure DevOps Boards, Jira (🚧)
+    - Feature Flags e Releases Controladas (🚧)
+        - LaunchDarkly, Azure App Configuration (🚧)
+        - A/B Testing e Canary Deployments com flags (🚧)
+        - Exemplo prático com ASP.NET e App Configuration (🚧)
+
 ### Front-end (🚧)
 - HTML 5 (HyperText Markup Language) (🚧)
 - CSS 3 (Cascading Style Sheets) (🚧)
@@ -197,6 +261,51 @@
 
 ## Versionamento de Código (🚧)
 ### Git  (🚧)
+- Instalção
+- Introdução ao GIT
+   - Conceito de controle de versão e sua importância.
+   - Vantagens do Git.
+
+- Comandos Básicos
+    - Configuração Inicial
+	- Inicializar Repositório
+	- Clonar Repositório
+	- Status do Repositório
+	- Adicionar Alterações
+	- Criar Commit
+	- Enviar Alterações para o Repositório Remoto
+	- Atualizar o Repositório Local
+- Branching e Merging
+    - Criar uma Nova Branch
+	- Mudar para uma Branch
+	- Unir Alterações de uma Branch
+- Resolução de Conflitos
+    - Explicação de como resolver conflitos e boas práticas para evitá-los.
+- .gitignore
+    - Descrição de como configurar arquivos a serem ignorados.
+    - Exemplo
+- Configuração de Repositórios Remotos
+    - Adicionar repositório remoto
+	- Verificar repositórios remotos
+Fluxos de Trabalho (Workflows)
+    - Git Flow
+        - Branches principais 
+            - main
+            - develop
+        - Branches auxiliares
+            - feature/
+            - release/
+            - hotfix/
+    Trunk-Based Development
+        Explicação do fluxo mais simples com commits diretos no main.
+- Práticas Recomendadas
+- Ferramentas Complementares
+    - Extensões para VSCode
+        - GitLens (visualização de histórico e autoria).
+        - Git Graph (visualização de branches).
+    - Integração com GitHub/GitLab:
+        GitHub Actions (para CI/CD).
+        GitLab Pipelines.
 
 ### Mercurial  (🚧)
 
